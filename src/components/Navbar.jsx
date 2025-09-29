@@ -95,6 +95,7 @@ const MobileSearch = styled(IconButton)`
 
   @media (max-width: 768px) {
     display: flex;
+    color: black;
   }
 `
 const Navbar = () => {
