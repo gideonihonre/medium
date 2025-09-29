@@ -56,7 +56,7 @@ export const articles = [
     authorName: "Clean Compiler",
     title: "10 Java Collections Tricks Only Seniors Know",
     subtitle:
-      "If you've been coding in Java for a while, you probably use List, Set, and Map eve.",
+      "If you've been coding in Java for a while, you probably use List, Set, and Map every single day. But here's the thing: most...",
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4QtGCGH354AB9jQ31U8_jJlkaOmXEkI4Sw&s",
     date: "3d ago",

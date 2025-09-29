@@ -6,11 +6,11 @@ import ArticleCard from "./ArticleCard"
 const FeedContainer = styled.div`
   width: 100%;
   padding: 0 140px;
-  margin: 50px auto;
+  margin: 40px auto;
 
-  // @media (max-width: 1024px) {
-  //   padding: 0 24px;
-  // }
+  @media (max-width: 1024px) {
+    padding: 0 24px;
+  }
 
   @media (max-width: 768px) {
     padding: 0 16px;
@@ -47,7 +47,7 @@ const TabButton = styled.button`
 `
 
 const TabContent = styled.div`
-  padding: 1rem 0;
+  padding: 0;
 `
 
 const ArticleContainer = styled.div`

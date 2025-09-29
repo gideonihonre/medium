@@ -13,10 +13,11 @@ import styled from "styled-components"
 const Post = styled.div`
   display: flex;
   flex-direction: column;
+
   width: 100%;
   gap: 16px;
   border-bottom: 1px solid #e0e0e0;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   &:last-child {
     border-bottom: none;
   }
@@ -62,7 +63,7 @@ const TextGroup = styled.div`
 const Title = styled.h3`
   font-size: 1.5rem;
   font-weight: 900;
-  margin: 8px 0;
+  margin: 0;
   @media (max-width: 768px) {
     font-size: 1.2rem;
   }
